@@ -286,3 +286,4 @@ The following files were removed as part of the consolidation process:
 ## Notes
 
 This consolidation ensures a leaner and more efficient application structure, focusing on essential functionalities.
+# qualidata
