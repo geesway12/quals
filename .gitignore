@@ -1,28 +1,9 @@
-# QualiData PWA - Clean .gitignore for root deployment
-
-# Ignore system, IDE, and temp files only
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.env
-.env.local
-.env.development
-.env.test
-.env.production
-.cache/
-dist/
-build/
-coverage/
 ehthumbs.db
-*.bak
+# Ignore everything except docs, README.md, and .gitignore
+/*
+!docs/
+!README.md
+!.gitignore
 *.backup
 *.orig
 temp/
